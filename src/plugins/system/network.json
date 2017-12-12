@@ -1,0 +1,22 @@
+{
+    "name": "System - Network",
+    "description": "Overrides for Network page",
+    "type": "plugin",
+    "group": "system",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "homepage": "http://www.stonewallgaming.net",
+    "authors": [
+      {
+        "name": "Nick Swinford",
+        "email": "nick@nicholasjohn16.com",
+        "homepage": "http://nicholasjohn16.com"
+      }
+    ],
+    "copyright": [
+        "Copyright 2017 Stonewall Gaming Network"
+    ],
+    "files": [
+        "network.php"
+    ]
+}
